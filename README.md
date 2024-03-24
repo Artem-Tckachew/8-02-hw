@@ -19,16 +19,22 @@
 ---
 ## Задание 2
 1.Создайте новый проект pipeline.
+
 2. Перепишите сборку из задания 1 на declarative в виде кода.
+
 Ответ:
 ![alt text](https://github.com/Artem-Tckachew/8-02-hw/blob/main/4.png)
 ![alt text](https://github.com/Artem-Tckachew/8-02-hw/blob/main/5.png)
 ---
 ## Задание 3
 1.Установите на машину Nexus.
+
 2.Создайте raw-hosted репозиторий.
+
 3.Измените pipeline так, чтобы вместо Docker-образа собирался бинарный go-файл. Команду можно скопировать из Dockerfile.
+
 4.Загрузите файл в репозиторий с помощью jenkins.
+
 Ответ:
 ![alt text](https://github.com/Artem-Tckachew/8-02-hw/blob/main/6.png)
 ![alt text](https://github.com/Artem-Tckachew/8-02-hw/blob/main/7.png)
