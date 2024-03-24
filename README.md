@@ -25,6 +25,7 @@
 Ответ:
 ![alt text](https://github.com/Artem-Tckachew/8-02-hw/blob/main/4.png)
 ![alt text](https://github.com/Artem-Tckachew/8-02-hw/blob/main/5.png)
+
 ---
 ## Задание 3
 1.Установите на машину Nexus.
@@ -40,3 +41,16 @@
 ![alt text](https://github.com/Artem-Tckachew/8-02-hw/blob/main/7.png)
 ![alt text](https://github.com/Artem-Tckachew/8-02-hw/blob/main/8.png)
 ![alt text](https://github.com/Artem-Tckachew/8-02-hw/blob/main/9.png)
+
+---
+## Задание 4*
+Придумайте способ версионировать приложение, чтобы каждый следующий запуск сборки присваивал имени файла новую версию. Таким образом, в репозитории Nexus будет храниться история релизов.
+
+Подсказка: используйте переменную BUILD_NUMBER.
+
+В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+
+Ответ:
+
+![alt text](https://github.com/Artem-Tckachew/8-02-hw/blob/main/10.png)
+![alt text](https://github.com/Artem-Tckachew/8-02-hw/blob/main/11.png)
